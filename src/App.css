@@ -1,0 +1,37 @@
+
+.logoAir{
+  width: 120px;
+}
+.explore{
+  font-size: 32px;
+  font-weight: 900; 
+}
+.ville{
+  width: 70px;
+  border-radius: 15px;
+}
+.servImg{
+width: 200px;
+border-radius: 15px;
+}
+.detail{
+  border-radius: 15px !important;
+}
+.buton{
+  background-color: #fff !important;
+  color: rgb(37, 36, 36) !important;
+  border: white !important;
+  padding: 13px !important;
+  border-radius: 12px !important;
+  width: 150px !important;
+}
+.description{
+  font-size: 19px;
+}
+.parag{
+  font-size: 27px;
+}
+.photo{
+  width: 380px;
+  border-radius: 15px;
+}
